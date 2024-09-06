@@ -1,0 +1,11 @@
+Model Information:
+* title:	Lily Pads
+* source:	https://sketchfab.com/3d-models/lily-pads-4848f78974fb4a5684d80d613622085e
+* author:	francis6774 (https://sketchfab.com/francis6774)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Lily Pads" (https://sketchfab.com/3d-models/lily-pads-4848f78974fb4a5684d80d613622085e) by francis6774 (https://sketchfab.com/francis6774) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

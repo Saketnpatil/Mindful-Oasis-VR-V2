@@ -1,0 +1,8 @@
+Model Information:
+* title:	Sea Asset Pack
+* source:	https://sketchfab.com/3d-models/sea-asset-pack-877db3c315a5434ea3952d97648d82d3
+* author:	Mad (https://sketchfab.com/mad1hav)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
